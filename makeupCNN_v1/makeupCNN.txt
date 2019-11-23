@@ -1,0 +1,16 @@
+
+fit:
+Evaluate -- train dataset
+loss: 1.77	acc: 97.28%
+Evaluate -- test dataset
+loss: 2.80	acc: 76.50%
+
+fit_generator:
+Evaluate -- train dataset
+loss: 1.83	acc: 93.98%
+Evaluate -- test dataset
+loss: 2.04	acc: 85.10%
+
+time: 754 sec
+
+====================
